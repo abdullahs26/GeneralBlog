@@ -2,7 +2,7 @@
 GeneralBlog is a fullstack blogging web application that utilizes JWT authentication for user login functionality. The backend was developed using Java and Spring Boot,
 and the frontend was was developed using Angular. 
 
-The link to the front-end code is provided below:
+The link to the frontend code is provided below:
 
 https://github.com/abdullahs26/GeneralBlog-frontend
 
